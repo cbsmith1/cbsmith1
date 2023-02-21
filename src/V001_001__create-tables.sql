@@ -1,0 +1,1 @@
+CREATE TABLE Inventory (id INT, name NVARCHAR(32), quantity INT)
